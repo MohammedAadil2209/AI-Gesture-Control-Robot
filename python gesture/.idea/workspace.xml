@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23871500-cf0e-4488-82c2-7cc5ae03ebc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tech fusion.iml" afterDir="false" />
+    <list default="true" id="89622549-3635-499a-966a-4e212535b206" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python gesture.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gesture_Control_BOT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python gesture/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python gesture/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python gesture/.idea/python gesture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python gesture/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python gesture/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +27,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="3C2SzjUqJAf8XajuQPn3F6Mkzqn" />
+  <component name="ProjectId" id="3C5DMXkDsWyFvfv2SjpHksbhJEL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Face Detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Gesture Control BOT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Gesture_Control_BOT.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.gesture.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,11 +54,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="23871500-cf0e-4488-82c2-7cc5ae03ebc6" name="Changes" comment="" />
-      <created>1775582439632</created>
+      <changelist id="89622549-3635-499a-966a-4e212535b206" name="Changes" comment="" />
+      <created>1775666489263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775582439632</updated>
+      <updated>1775666489263</updated>
     </task>
     <servers />
   </component>
